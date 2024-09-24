@@ -1,6 +1,6 @@
 # plots demo
 
-using plots 
+using Plots 
 
 # line plots
 f(x) = x^3 - 2x 
